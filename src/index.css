@@ -112,3 +112,15 @@ body{
     transition: all 0.2s;
 }
 
+@media screen and (max-width: 390px) {
+  .title{
+    margin:auto;
+  }
+  .card{
+   
+        width: 350px;
+  }
+  .image {
+    width: 320px;
+  }
+  }
