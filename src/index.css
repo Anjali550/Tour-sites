@@ -115,7 +115,7 @@ body{
 @media screen and (max-width: 390px) {
   .title{
     margin:auto;
-    font-size: 2rem;
+    font-size: 1rem;
     padding: 1vh auto;
   }
   .card{
